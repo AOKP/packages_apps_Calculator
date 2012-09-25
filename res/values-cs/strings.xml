@@ -81,4 +81,26 @@
     <item msgid="8587490959348493065">"pí"</item>
     <item msgid="8134315487552198394">"rovná se"</item>
   </string-array>
+  <string name="matrix">Panel matic</string>
+  <string name="graph">Panel grafů</string>
+  <string name="function">Panel funkcí</string>
+  <string name="hexPanel">Šestnáctkový panel</string>
+  <string name="solveForX">Vyřešit pro  X</string>
+  <string name="solveForY">Vyřešit pro Y</string>
+  <string name="defaultGraphTitle">Funkce</string>
+  <string name="graphTitle">Funkce: </string>
+  <string name="inverse">Inv</string>
+  <string name="determinant">Det</string>
+  <string name="eigenvalue">Vlastní</string>
+  <string name="solve">Vyřešit</string>
+  <string name="dotProduct">Skalární součin</string>
+  <string name="crossProduct">Vektorový součin</string>
+  <string name="hexDesc">Šestnáctková</string>
+  <string name="binDesc">Dvojková</string>
+  <string name="decDesc">Desítková</string>
+  <string name="determinantDesc">Determinant</string>
+  <string name="eigenvalueDesc">Vlastní čísla</string>
+  <string name="settings">Nastavení</string>
+  <string name="showHistory">Zobrazit historii</string>
+  <string name="hideHistory">Skrýt historii</string>
 </resources>
