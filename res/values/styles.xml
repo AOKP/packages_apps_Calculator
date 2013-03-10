@@ -47,11 +47,13 @@
        <item name="android:layout_weight">1</item>
        <item name="android:focusable">true</item>
        <item name="android:background">@drawable/btn_function</item>
+       <item name="android:textColor">@color/button_text</item>
        <item name="android:layout_marginLeft">1dp</item>
     </style>
 
     <style name="digit_button_style" parent="button_style">
        <item name="android:background">@drawable/btn_digit</item>
+       <item name="android:textColor">@color/button_text</item>
     </style>
 
     <style name="button_small_style" parent="button_style">
@@ -91,6 +93,7 @@
        <item name="android:layout_weight">1</item>
        <item name="android:layout_height">match_parent</item>
        <item name="android:background">@drawable/btn_function</item>
+       <item name="android:textColor">@color/button_text</item>
        <item name="android:textSize">@dimen/btn_function_text_size</item>
     </style>
 
@@ -100,6 +103,7 @@
        <item name="android:layout_height">match_parent</item>
        <item name="android:gravity">center</item>
        <item name="android:background">@drawable/btn_function</item>
+       <item name="android:textColor">@color/button_text</item>
        <item name="android:textSize">@dimen/btn_operation_text_size</item>
     </style>
 
@@ -109,6 +113,7 @@
        <item name="android:layout_height">match_parent</item>
        <item name="android:gravity">center</item>
        <item name="android:background">@drawable/btn_digit</item>
+       <item name="android:textColor">@color/button_text</item>
        <item name="android:textSize">@dimen/btn_digit_text_size</item>
     </style>
 
